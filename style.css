@@ -50,3 +50,21 @@ body{
     font-size: 23px;
     font-weight: 500;
 }
+.profile-card .media-buttons{
+    display: flex;
+    align-items: center;
+}
+.media-button .link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    flex-direction: row;
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    margin: 0 8px;
+    background-color: #4070f4;
+    text-decoration: none;
+
+}
