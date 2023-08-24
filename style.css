@@ -44,4 +44,9 @@ body{
     display: flex;
     text-align: center;
     flex-direction: column;
+    color: #333;
+}
+.text-data .name {
+    font-size: 23px;
+    font-weight: 500;
 }
